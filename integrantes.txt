@@ -1,0 +1,7 @@
+Practica2 Vue3
+Nombre(s) de integrante(s):
+- Alejandro Fernando Flores Alvarado
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run serve

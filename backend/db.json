@@ -1,0 +1,109 @@
+{
+  "restaurantes": [
+    {
+      "id": "1bed",
+      "nombre": "Tunari",
+      "ubicacion": "https://www.google.com/maps/@-17.385148,-66.1569863,19.64z?entry=ttu"
+    },
+    {
+      "id": "2acd",
+      "nombre": "Paprika",
+      "ubicacion": "https://www.google.com/maps/@-17.377931,-66.159958,19z?entry=ttu"
+    },
+    {
+      "id": "3bfe",
+      "nombre": "La Cantonata",
+      "ubicacion": "https://www.google.com/maps/@-17.377163,-66.155740,19z?entry=ttu"
+    },
+    {
+      "id": "4cde",
+      "nombre": "Mad Mex",
+      "ubicacion": "https://www.google.com/maps/@-17.378912,-66.160497,19z?entry=ttu"
+    },
+    {
+      "id": "c996",
+      "nombre": "Davincii",
+      "ubicacion": "https://www.google.com/maps/@-17.3848239,-66.1559561,21z?entry=ttu"
+    },
+    {
+      "id": "453a",
+      "nombre": "La Estancia",
+      "ubicacion": "https://www.google.com/maps/@-17.383984,-66.156791,19z?entry=ttu"
+    },
+    {
+      "id": "d959",
+      "nombre": "Casa de Campo",
+      "ubicacion": "https://www.google.com/maps/@-17.389728,-66.155288,19z?entry=ttu"
+    }
+  ],
+  "tiposProducto": [
+    {
+      "id": "1",
+      "tipo": "bebida"
+    },
+    {
+      "id": "2",
+      "tipo": "postres"
+    },
+    {
+      "id": "3",
+      "tipo": "sopa"
+    },
+    {
+      "id": "4",
+      "tipo": "segundo"
+    },
+    {
+      "id": "5",
+      "tipo": "helado"
+    },
+    {
+      "id": "62e2",
+      "tipo": "dulces"
+    }
+  ],
+  "productos": [
+    {
+      "id": "3466",
+      "nombre": "flan",
+      "precio": 9,
+      "tipoId": 2
+    },
+    {
+      "id": "cebf",
+      "nombre": "Sopa de maní",
+      "precio": 10,
+      "tipoId": "3"
+    },
+    {
+      "id": "37fb",
+      "nombre": "Pique",
+      "precio": 118,
+      "tipoId": 4
+    },
+    {
+      "id": "991d",
+      "nombre": "Fideo",
+      "precio": 8,
+      "tipoId": "3"
+    },
+    {
+      "id": "4b60",
+      "nombre": "Sprite",
+      "precio": 11,
+      "tipoId": "1"
+    },
+    {
+      "id": "277e",
+      "nombre": "Asado",
+      "precio": 20,
+      "tipoId": "4"
+    },
+    {
+      "id": "e3e1",
+      "nombre": "cafe",
+      "precio": 1,
+      "tipoId": "62e2"
+    }
+  ]
+}
